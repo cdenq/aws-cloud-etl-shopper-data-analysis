@@ -1,1 +1,1 @@
-# aws-cloud-etl-shopper-data-anaylsis
+# aws-cloud-etl-shopper-data-analysis
