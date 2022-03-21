@@ -5,7 +5,7 @@
 1) sets-up and utilizes cloud functionality from Amazon Web Services (AWS) for two production-ready tables
 2) analyzes 1.5M data points to evaluate Amazon's Vine reviews
 
-Datasets from (Amazon)[https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt].
+Datasets from [Amazon](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).
 
 ## Built with
 - Spark / Pyspark
